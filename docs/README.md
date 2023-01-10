@@ -3,4 +3,4 @@ This just adds a bash script to get IMGUI up and running on linux and removes ev
 ### Current Supported Distros
 * Arch w/X11 (script installs GLFW3 for X11)
 
-Original Readme = readme_original.md
+Original Readme = docs/README_ORIGINAL.md
